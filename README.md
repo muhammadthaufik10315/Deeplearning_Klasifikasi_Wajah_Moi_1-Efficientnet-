@@ -1,1 +1,1 @@
-# Deeplearning_Klasifikasi_Wajah_Suku_Moi_1-Efficientnet-
+# Deeplearning_Klasifikasi_Wajah_Suku_Moi-Efficientnet-
